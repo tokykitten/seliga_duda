@@ -1,1 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Trad:wght@100..400&display=swap');
+
+:root {
+    
+    background-color: rgb(241, 202, 225);
+
+    font-family: "Playwrite FR Trad", cursive;
+}
+
+.titulo{
+    font-size: xx-large;
+    font-family: "Playwrite FR Trad", cursive;
+}
+
+body{
+    text-align: center;
+}
 
